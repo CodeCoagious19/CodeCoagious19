@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao a tutti! 👋
+
+Sono Simone Di Ricco, mi occupo di corsi di informatica, visita le mie repository o la mia pagina personale [Simone Di Ricco](https://simonediricco1.github.io/index.html)
+
+A presto..
 
 <!--
 **simonediricco1/simonediricco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
