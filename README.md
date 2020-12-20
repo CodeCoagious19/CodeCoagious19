@@ -1,6 +1,6 @@
 ### Ciao a tutti! 👋
 
-Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://informatica-plusplus.github.io/)
+Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://i-pp.github.io/)
 
 A presto..
 
