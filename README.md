@@ -1,6 +1,6 @@
 ### Ciao a tutti! 👋
 
-Sono Simone Di Ricco, mi occupo di corsi di informatica, visita le mie repository o la mia pagina personale [Simone Di Ricco](https://sidiri-8bit.github.io/index.html)
+Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://informatica-plusplus.github.io/)
 
 A presto..
 
