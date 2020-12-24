@@ -1,6 +1,6 @@
 ### Ciao a tutti! 👋
 
-Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://en0m1s-ipp.github.io/)
+Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://codecoagious.github.io/)
 
 A presto..
 
