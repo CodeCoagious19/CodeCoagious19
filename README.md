@@ -1,9 +1,5 @@
 ### Ciao a tutti! 👋
 
-Sono Simone, dai un'occhiata alla mia pagina personale [informatica++](https://codecoagious.github.io/)
-
-A presto..
-
 <!--
 **simonediricco1/simonediricco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
